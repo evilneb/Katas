@@ -1,0 +1,31 @@
+c:\users\blevy\documents\visual studio 2017\Projects\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.deps.json
+c:\users\blevy\documents\visual studio 2017\Projects\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.runtimeconfig.json
+c:\users\blevy\documents\visual studio 2017\Projects\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.runtimeconfig.dev.json
+c:\users\blevy\documents\visual studio 2017\Projects\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.dll
+c:\users\blevy\documents\visual studio 2017\Projects\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.pdb
+c:\users\blevy\documents\visual studio 2017\Projects\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.csprojResolveAssemblyReference.cache
+c:\users\blevy\documents\visual studio 2017\Projects\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.AssemblyInfo.cs
+c:\users\blevy\documents\visual studio 2017\Projects\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.dll
+c:\users\blevy\documents\visual studio 2017\Projects\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.pdb
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.deps.json
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.runtimeconfig.json
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.runtimeconfig.dev.json
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.dll
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.pdb
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.AssemblyInfo.cs
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.dll
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.pdb
+C:\Users\Ben\Desktop\TE STUFF\TE - Projects\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.deps.json
+C:\Users\Ben\Desktop\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.runtimeconfig.json
+C:\Users\Ben\Desktop\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.runtimeconfig.dev.json
+C:\Users\Ben\Desktop\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.dll
+C:\Users\Ben\Desktop\LifeGame\LifeGame\bin\Debug\netcoreapp1.1\LifeGame.pdb
+C:\Users\Ben\Desktop\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Desktop\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.AssemblyInfo.cs
+C:\Users\Ben\Desktop\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.dll
+C:\Users\Ben\Desktop\LifeGame\LifeGame\obj\Debug\netcoreapp1.1\LifeGame.pdb
