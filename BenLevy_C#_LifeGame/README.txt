@@ -24,8 +24,4 @@ homogenization of characters remaining in the world as the state changes
 are run repeatedly, which was pretty satisfying and interesting to see.
 There's definitely some more optimizing I think could be done (which I
 may pursure in the future) but this seemed like a good place to end the
-project and submit it.
-
-I hope you find it as neat as I did!
-
--Ben
+project for now.
